@@ -1,0 +1,16 @@
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu Uygulamarı\C# kodlama\Hastane veritabani uygulamasi\bin\Debug\Hastane veritabani uygulamasi.exe.config
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu Uygulamarı\C# kodlama\Hastane veritabani uygulamasi\bin\Debug\Hastane veritabani uygulamasi.exe
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu Uygulamarı\C# kodlama\Hastane veritabani uygulamasi\bin\Debug\Hastane veritabani uygulamasi.pdb
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu Uygulamarı\C# kodlama\Hastane veritabani uygulamasi\obj\Debug\Hastane veritabani uygulamasi.csproj.AssemblyReference.cache
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu Uygulamarı\C# kodlama\Hastane veritabani uygulamasi\obj\Debug\Hastane veritabani uygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu Uygulamarı\C# kodlama\Hastane veritabani uygulamasi\obj\Debug\Hastane veritabani uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu Uygulamarı\C# kodlama\Hastane veritabani uygulamasi\obj\Debug\Hastane veritabani uygulamasi.exe
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu Uygulamarı\C# kodlama\Hastane veritabani uygulamasi\obj\Debug\Hastane veritabani uygulamasi.pdb
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# projelerim\Hastane veritabani uygulamasi\bin\Debug\Hastane veritabani uygulamasi.exe.config
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# projelerim\Hastane veritabani uygulamasi\bin\Debug\Hastane veritabani uygulamasi.exe
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# projelerim\Hastane veritabani uygulamasi\bin\Debug\Hastane veritabani uygulamasi.pdb
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# projelerim\Hastane veritabani uygulamasi\obj\Debug\Hastane veritabani uygulamasi.csproj.AssemblyReference.cache
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# projelerim\Hastane veritabani uygulamasi\obj\Debug\Hastane veritabani uygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# projelerim\Hastane veritabani uygulamasi\obj\Debug\Hastane veritabani uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# projelerim\Hastane veritabani uygulamasi\obj\Debug\Hastane veritabani uygulamasi.exe
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# projelerim\Hastane veritabani uygulamasi\obj\Debug\Hastane veritabani uygulamasi.pdb
